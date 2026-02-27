@@ -709,3 +709,17 @@ section { padding:8rem 0; }
   border: 1px solid rgba(231, 76, 60, 0.4);
   color: #e74c3c;
 }
+
+/* ===== SITE THEME: Circuit Green ===== */
+:root {
+    --primary: #86efac;
+    --primary-dark: #22c55e;
+    --accent: #2dd4bf;
+    --bg-dark: #040e08;
+    --bg-darker: #020804;
+    --bg-card: #081a0e;
+    --font-heading: 'Rajdhani', sans-serif;
+    --font-body: 'Space Grotesk', sans-serif;
+}
+.site-header { background: rgba(4,14,8,0.85); }
+h1,h2,h3,h4,h5,h6 { letter-spacing:0.06em; }
